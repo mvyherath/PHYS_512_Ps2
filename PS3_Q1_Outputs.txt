@@ -1,0 +1,7 @@
+RK4_step output for 200 steps
+np.std(y-y_pred) = 7.024
+Uses 4 function evaluations
+
+RK4_stepd output for 200 steps
+np.std(y-y_pred) = 2.014
+Uses 12 function evaluations
