@@ -1,0 +1,28 @@
+We have the equation:
+
+z-z0 = a((x - x0)^2 + (y - y0)^2)
+
+The equation gets expanded.
+z = a(x^2 + y^2) - 2ax0*x - 2ay0*y + (x0^2 + y0^2 + z0^2)
+
+We separate out the unknowns from the knowns. The unknowns are called Cx where...
+x is an integer
+Therefore the unknowns become elements of the m matrix: 
+C1 = a 
+C2 = -2ax0
+C3 = -2ay0
+C4 = x0^2 + y0^2 + z0^2
+
+While the known quantities become elements of the A matrix
+X1 = x^2 + y^2
+X2 = x
+X3 = y
+X4 = 1
+
+The z values go into the Y matrix.
+Therefore:
+Z = C1(X1) + C2(X2) + C3(X3) + C4(X4)
+
+Once we use the sad equation and find the m matrix, we can use the values of the m.....
+matrix to find the values of a, x0, y0 and z0 using the equations given above for...
+The Cx values. 
