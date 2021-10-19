@@ -1,0 +1,21 @@
+accepting step with new/old chisq  11931.0440700804 14101.417680010953
+on iteration  0  chisq is  11931.0440700804  with step  [ 3.48121631e+00  1.64626938e-03  1.81838800e-02  3.30017161e-02
+  1.91555289e-10 -4.85202250e-02]  and lamda  0
+[6.52992763e+01 2.16462694e-02 1.18183880e-01 8.30017161e-02
+ 2.19155529e-09 9.51479775e-01]
+accepting step with new/old chisq  2759.369939022299 11931.0440700804
+on iteration  1  chisq is  2759.369939022299  with step  [ 1.41533658e+00  5.80820006e-04  1.01547972e-03 -8.99846626e-02
+ -3.66394156e-10  1.11605262e-02]  and lamda  0
+[ 6.80271283e+01  2.22270894e-02  1.19199360e-01 -6.98294649e-03
+  1.82516113e-09  9.62640301e-01]
+Traceback (most recent call last):
+  File "/Users/maheshherath/Desktop/McGill/PHYS_512/PS4/PS4_Q2_LM.py", line 124, in <module>
+    
+  File "/Users/maheshherath/Desktop/McGill/PHYS_512/PS4/PS4_Q2_LM.py", line 91, in fit_lm
+    grads = diff_this(pars)
+  File "<__array_function__ internals>", line 5, in inv
+  File "/opt/anaconda3/envs/camb/lib/python3.9/site-packages/numpy/linalg/linalg.py", line 545, in inv
+    ainv = _umath_linalg.inv(a, signature=signature, extobj=extobj)
+  File "/opt/anaconda3/envs/camb/lib/python3.9/site-packages/numpy/linalg/linalg.py", line 88, in _raise_linalgerror_singular
+    raise LinAlgError("Singular matrix")
+numpy.linalg.LinAlgError: Singular matrix
