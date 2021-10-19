@@ -1,0 +1,22 @@
+Iteration = 0 ChiSq_NEW = 2850.0896269322375 ChiSq_OLD = 15267.937968222595 step of [ 4.48029160e+00  1.59490065e-03  1.81093722e-02  4.85901599e-02
+  2.52158323e-10 -4.90991402e-02]
+[6.50802916e+01 2.15949006e-02 1.18109372e-01 9.85901599e-02
+ 2.25215832e-09 9.50900860e-01]
+ Warning: xe at redshift zero is < 1
+ Check input parameters an Reionization_xe
+ function in the Reionization module
+ Warning: xe at redshift zero is < 1
+ Check input parameters an Reionization_xe
+ function in the Reionization module
+Iteration = 1 ChiSq_NEW = 2874.61673601055 ChiSq_OLD = 2850.0896269322375 step of [ 2.18699158e+00  6.23533514e-04  1.35547141e-03 -9.68145749e-02
+ -3.96417043e-10  1.09231726e-02]
+[6.79180861e+01 2.22184342e-02 1.19464844e-01 1.77558499e-03
+ 1.85574128e-09 9.61824032e-01]
+[6.79180861e+01 2.22184342e-02 1.19464844e-01 1.77558499e-03
+ 1.85574128e-09 9.61824032e-01]
+ Warning: xe at redshift zero is < 1
+ Check input parameters an Reionization_xe
+ function in the Reionization module
+ Warning: xe at redshift zero is < 1
+ Check input parameters an Reionization_xe
+ function in the Reionization module
