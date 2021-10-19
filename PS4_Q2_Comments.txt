@@ -1,0 +1,9 @@
+# Both the Newton fitting method and the Levenberg-Marquardt (LM) methods were used
+# to find the best fit parameters.
+# Both fits managed to find a minimum round a chi-square value of 2700.
+# Beyond that point, both fitting algorithms failed.
+# Failure resulting from the Tau parameter or other parameters dropping below zero. 
+# The minimum chi-sq value resulting from each fit was used for Q3.
+# The reason why both the Newton and LM algorithms failed is yet to be determined. 
+# Reason could be due to using a wrong value for dx.
+# Reason could also be an issue with the differential matrix. 
