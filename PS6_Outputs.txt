@@ -1,0 +1,62 @@
+Noise of   L1   for event   GW150914   = 0.20396270925304033
+Numerical SNR of   L1   for event   GW150914   = 16.963367583104226
+Analytical SNR of   L1   for event   GW150914   = 25.394151660241427
+Frequency for   L1   for event   GW150914   = 1421.625
+
+Noise of   H1   for event   GW150914   = 0.22476916198573219
+Numerical SNR of   H1   for event   GW150914   = 22.83135731761793
+Analytical SNR of   H1   for event   GW150914   = 24.224168358052182
+Frequncy for   H1   for event   GW150914   = 1421.625
+
+Noise of Livingston + Harford for GW150914 = 0.29929407319480783
+Numerical SNR of Livingston + Harford for GW150914 = 21.438398007528754
+
+
+
+
+
+Noise of   L1   for event   GW151226   = 0.07510089779030177
+Numerical SNR of   L1   for event   GW151226   = 10.817485694675899
+Analytical SNR of   L1   for event   GW151226   = 26.03824160815998
+Frequncy for   L1   for event   GW151226   = 1421.625
+
+Noise of   H1   for event   GW151226   = 0.1099689548198087
+Numerical SNR of   H1   for event   GW151226   = 12.503396784831162
+Analytical SNR of   H1   for event   GW151226   = 20.10200523316866
+Frequncy for   H1   for event   GW151226   = 1421.625
+
+Noise of Livingston + Harford for GW151226 = 0.12201897589109448
+Numerical SNR of Livingston + Harford for GW151226 = 9.072806454797789
+
+
+
+
+
+Noise of   L1   for event   LVT151012   = 0.13733655567880282
+Numerical SNR of   L1   for event   LVT151012   = 7.791614153717428
+Analytical SNR of   L1   for event   LVT151012   = 22.931788782557767
+Frequncy for   L1   for event   LVT151012   = 1421.625
+
+Noise of   H1   for event   LVT151012   = 0.17011733967402376
+Numerical SNR of   H1   for event   LVT151012   = 10.757373140218403
+Analytical SNR of   H1   for event   LVT151012   = 20.42409362076201
+Frequncy for   H1   for event   LVT151012   = 1421.625
+
+Noise of Livingston + Harford for LVT151012 = 0.2239409609592375
+Numerical SNR of Livingston + Harford for LVT151012 = 7.444915286761368
+
+
+
+
+Noise of   L1   for event   GW170104   = 0.24031710153602348
+Numerical SNR of   L1   for event   GW170104   = 12.481074326264203
+Analytical SNR of   L1   for event   GW170104   = 21.03581732770974
+Frequncy for   L1   for event   GW170104   = 1421.625
+
+Noise of   H1   for event   GW170104   = 0.19910336056210293
+Numerical SNR of   H1   for event   GW170104   = 11.033301873388027
+Analytical SNR of   H1   for event   GW170104   = 22.844411097709113
+Frequncy for   H1   for event   GW170104   = 1421.625
+
+Noise of Livingston + Harford for GW170104 = 0.2846871042792412
+Numerical SNR of Livingston + Harford for GW170104 = 12.10231003092303
