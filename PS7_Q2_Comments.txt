@@ -1,0 +1,6 @@
+PS7 - Q2
+
+After using both the Power Law and the Lorentzian to generate an Exponential curve with
+random numbers, it was found that the Power law has an efficiency of 3.7% while the 
+Lorentzian has an efficiency of 57.1%. Therefore the Lorentzian is a better function to 
+use as a bounding curve when it comes to generating random numbers following a exponential.
