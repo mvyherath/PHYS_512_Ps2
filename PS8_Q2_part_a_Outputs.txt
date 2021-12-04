@@ -1,5 +1,0 @@
-PS8 - Q2 - part a
-
-Potential at V[1,0] = 0.5035698996565339
-Potential at V[2,0] = -0.15267499713524635
-Potential at V[5,0] = -1.333439760935196
