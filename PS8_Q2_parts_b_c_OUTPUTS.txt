@@ -1,0 +1,11 @@
+PS8 - Q2 - parts (b) and (c)
+
+For +ve and -ve charges:
+
+starting rsqr is  2048.0
+final rsqr is  9.57689410067007
+
+For all +ve charges: 
+
+starting rsqr is  2048.0
+final rsqr is  66.18777772649396
